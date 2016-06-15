@@ -1,14 +1,11 @@
 /* Licensed under BSD-MIT - see LICENSE file for details */
-#include <unistd.h>
 #include <stdint.h>
 #include <string.h>
 #include <limits.h>
 #include <stdlib.h>
 #include "str.h"
 #include <sys/types.h>
-#include <regex.h>
 #include <stdarg.h>
-#include <unistd.h>
 #include <stdio.h>
 #include <ccan/str/str.h>
 #include <ccan/take/take.h>
